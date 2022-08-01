@@ -1,0 +1,22 @@
+#List of commands
+
+REPOSITORIES - PROJECT SPACE
+HoW TO CREATE GIT PROFILES AND REPORSITORY
+
+1) git clone "https://github.com/nagamalli148/git-bootcamp-klglug.git"
+2) cd git-bootcamp-klglug/
+
+ls
+cat README.md  //it displays the content in that file
+notepad README.md
+git status
+
+3) git add README.md
+4) git commit -m "update clone step"
+
+//CONFIGURATION
+5) global user.email "you@example.com"
+6) git config --global user.name "YOUR NAME"
+
+7) git push
+
