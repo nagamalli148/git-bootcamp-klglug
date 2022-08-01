@@ -15,7 +15,7 @@ git status
 4) git commit -m "update clone step"
 
 //CONFIGURATION
-5) global user.email "you@example.com"
+5) git config --global user.email "you@example.com"
 6) git config --global user.name "YOUR NAME"
 
 7) git push
