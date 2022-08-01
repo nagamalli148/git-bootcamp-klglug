@@ -20,3 +20,4 @@ git status
 
 7) git push
 
+8) git pull    -- it is to update the changes from global to local
